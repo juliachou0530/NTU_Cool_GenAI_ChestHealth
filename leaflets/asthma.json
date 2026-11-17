@@ -1,0 +1,135 @@
+{
+  "title": "氣喘",
+  "id": "asthma",
+  "category": "疾病照護",
+  "document_type": "醫院護理衛教單張（原 PDF 轉文字；非醫療建議）",
+  "code": "PFS-8100-126",
+  "unit": "8B病房",
+  "revised_date": "2025-12-01（原文 114.12.01）",
+  "contact": "(02)2737-2181 分機 8821",
+  "prepared_date": "2026-11-02",
+  "order": 3,
+  "source_file": "source/03_asthma.txt",
+  "summary": "氣喘是一種呼吸道慢性發炎疾病，會引起反覆性的氣道過敏反應及氣道收縮，造成呼吸困難與氣流受阻。",
+  "content": [
+    {
+      "heading": "疾病簡介",
+      "alert": false,
+      "items": [
+        {
+          "type": "paragraph",
+          "text": "氣喘是一種呼吸道慢性發炎疾病，會引起反覆性的氣道過敏反應及氣道收縮，造成呼吸困難與氣流受阻。"
+        }
+      ]
+    },
+    {
+      "heading": "常見症狀",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "咳嗽"
+        },
+        {
+          "type": "bullet",
+          "text": "呼吸出現喘鳴聲"
+        },
+        {
+          "type": "bullet",
+          "text": "呼吸困難"
+        },
+        {
+          "type": "bullet",
+          "text": "胸悶或呼吸急促"
+        }
+      ]
+    },
+    {
+      "heading": "檢查",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "胸部X光檢查"
+        },
+        {
+          "type": "bullet",
+          "text": "血液檢查"
+        }
+      ]
+    },
+    {
+      "heading": "處置",
+      "alert": false,
+      "items": [
+        {
+          "type": "paragraph",
+          "text": "氣喘是一連串複雜的發炎反應，治療應多方面進行："
+        },
+        {
+          "type": "bullet",
+          "text": "藥物治療：包含快速緩解型（支氣管擴張劑）與長期控制型（吸入型類固醇等）藥物。"
+        },
+        {
+          "type": "bullet",
+          "text": "吸入型類固醇：是目前治療氣喘最好的方式。只要提到類固醇大部份家長會擔心其副作用的產生，在此需釐清氣喘病童使用吸入性類固醇，其劑量極小，根據研究，長期在適當的劑量使用可有效改善氣喘的症狀，但卻不會有一般所認為會有的類固醇副作用。"
+        },
+        {
+          "type": "bullet",
+          "text": "支氣管擴張劑：其作用是讓支氣管上的肌肉放鬆，使呼吸通暢而解除呼吸困難等氣喘症狀。"
+        }
+      ]
+    },
+    {
+      "heading": "急性照護",
+      "alert": false,
+      "items": [
+        {
+          "type": "paragraph",
+          "text": "應依照指示按時用藥，切勿自行調整藥物劑量，用藥期間注意有無不適。良好的營養可以幫助增加身體抵抗力，病人可以採用高蛋白、高熱量飲食，若因同時罹患其它疾病需限制飲食時，則需與醫師或營養師討論，同時注意補充水份。"
+        }
+      ]
+    },
+    {
+      "heading": "居家保健",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "指示用藥，不自行增減藥量，避免不正確服用藥物導致症狀加重，請按照指示用藥及回診。"
+        },
+        {
+          "type": "bullet",
+          "text": "保持室內空氣流通，維持充足睡眠及適度運動，以增加抵抗力、避免感冒。"
+        },
+        {
+          "type": "bullet",
+          "text": "避免接觸導致或使症狀更嚴重的事情，如過敏原（塵蟎、黴菌、貓狗、花粉）、過度的運動、天氣變化等。"
+        }
+      ]
+    },
+    {
+      "heading": "緊急返院提醒",
+      "alert": true,
+      "items": [
+        {
+          "type": "paragraph",
+          "text": "如果您氣喘發作，並且在使用藥物後症狀沒有改善或變得更糟，請速返院就醫。"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "questions": [
+      "( )氣喘症狀有改善時，可以自行停藥。",
+      "( )良好的營養可增加抵抗力，病人可採高蛋白、高熱量飲食。",
+      "( )平日需避免接觸塵蟎、貓狗、花粉等過敏原。"
+    ],
+    "answers": "問題1：（原 PDF 此處為符號字型，無法轉出） 問題2：O 問題3：O"
+  },
+  "references": [
+    "Global Initiative for Asthma. (2023). GINA 2023: Global strategy for asthma management and prevention. Retrieved from https://ginasthma.org/gina-reports/",
+    "National Heart, Lung, and Blood Institute. (2022). Asthma. Retrieved from https://www.nhlbi.nih.gov/health/asthma"
+  ],
+  "notice": "本單僅供參考，實際治療以醫師診治為主"
+}

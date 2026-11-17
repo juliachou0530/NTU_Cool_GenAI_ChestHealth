@@ -1,0 +1,135 @@
+{
+  "title": "胸腔物理治療(有效深呼吸及咳嗽)",
+  "id": "chest-physiotherapy",
+  "category": "照護技巧",
+  "document_type": "醫院護理衛教單張（原 PDF 轉文字；非醫療建議）",
+  "code": "PFS-8100-678",
+  "unit": "護理部",
+  "revised_date": "2025-12-01（原文 114.12.01）",
+  "contact": "(02)2737-2181 分機 1300",
+  "prepared_date": "2026-11-02",
+  "order": 1,
+  "source_file": "source/01_chest-physiotherapy.txt",
+  "summary": "矯正無效的呼吸型態，增加肺部氣體交換的功能",
+  "content": [
+    {
+      "heading": "深呼吸運動",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "矯正無效的呼吸型態，增加肺部氣體交換的功能"
+        },
+        {
+          "type": "bullet",
+          "text": "訓練呼吸肌，延長呼氣時間使氣體能完全呼出，減少氣管壁阻力"
+        },
+        {
+          "type": "bullet",
+          "text": "可預防肺擴張不全"
+        }
+      ]
+    },
+    {
+      "heading": "深呼吸運動執行方法",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "腹式（橫膈）式呼吸（Diaphragmatic Breathing）"
+        },
+        {
+          "type": "bullet",
+          "text": "坐姿或平臥屈膝"
+        },
+        {
+          "type": "bullet",
+          "text": "一手置於胸部中央；另一手置在胃部上方；可增加橫膈在呼吸時察覺度與功能"
+        },
+        {
+          "type": "bullet",
+          "text": "緩慢經由鼻子吸氣，將腹部做最大幅度的鼓出（放腹部的手有上提感）"
+        },
+        {
+          "type": "bullet",
+          "text": "再緊縮腹肌時，噘嘴吐氣"
+        },
+        {
+          "type": "bullet",
+          "text": "呼氣時用手平穩向內向上地壓迫腹部"
+        },
+        {
+          "type": "bullet",
+          "text": "重覆進行一分鐘，然後休息兩分鐘"
+        },
+        {
+          "type": "bullet",
+          "text": "一次約做 30 分，每日重覆數次"
+        }
+      ]
+    },
+    {
+      "heading": "噘嘴式呼吸（Pursed Lip Breathing）",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "鼻子吸氣，心中默念從 1 數到 3，然後緩慢、均勻地噘嘴呼氣，此刻得緊縮腹肌（噘嘴可增加氣管內壓）；經由呼氣可以減少呼氣時所承受阻力"
+        },
+        {
+          "type": "bullet",
+          "text": "將嘴噘起似哨子狀緩慢吐氣（保持吐氣時間是吸氣時間2-3倍），心中默念計數到 7"
+        },
+        {
+          "type": "bullet",
+          "text": "坐在椅子時；雙手置於腹部上。經由鼻孔吸氣（從 1 數到3）；身體彎向前，緩慢的噘嘴呼氣（從 1 數到 7）"
+        },
+        {
+          "type": "bullet",
+          "text": "走路時；走二步時吸氣；走第四步或第五步時，噘嘴吐氣"
+        }
+      ]
+    },
+    {
+      "heading": "有效咳嗽運動",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "可幫助痰液咳出，預防痰液沉積造成吸入性肺炎"
+        }
+      ]
+    },
+    {
+      "heading": "有效咳嗽運動執行方式",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "採坐姿頭微前傾並放鬆肩膀肌肉"
+        },
+        {
+          "type": "bullet",
+          "text": "用枕頭或手支托胸腹部"
+        },
+        {
+          "type": "bullet",
+          "text": "咳嗽之前宜先做深呼吸運動幾遍，再憋住呼吸且上身微前屈，於吐氣時作連續咳嗽運動"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "questions": [
+      "( ) 深呼吸運動可預防肺擴張不全",
+      "( )噘嘴式呼吸是以嘴巴吸氣，鼻子吐氣",
+      "( )有效咳嗽運動可幫助痰液咳出，預防肺炎發生"
+    ],
+    "answers": "問題1:〇 問題2:× 問題3:〇"
+  },
+  "references": [
+    "蔡毓真, 許端容, 王嫈媖, 洪仁宇, & 蔡忠榮. (2021). 肺復原於肺阻塞患者之應用. 內科學誌, 32(6), 385-397.",
+    "Chen, X., Jiang, J., Wang, R., Fu, H., Lu, J., & Yang, M. (2022). Chest physiotherapy for pneumonia in adults (Review). Cochrane Database of Systematic Reviews, 2022(9), Article CD006338. https://doi.org/10.1002/14651858.CD006338.pub4"
+  ],
+  "notice": "本單僅供參考，實際治療以醫師診治為主"
+}

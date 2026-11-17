@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>胸腔衛教單張庫</title>
+  <meta name="description" content="院內胸腔護理衛教單張的網頁版，可放大字體、列印。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="index">
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">🫁</span>胸腔衛教單張庫</a>
+      <div class="tools"><button class="btn" id="fontBtn" type="button">A+ 放大字體</button></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="eyebrow">CHEST HEALTH LEAFLETS</div>
+      <h1>給病人與家屬的<br>胸腔衛教單張</h1>
+      <p>收錄院內核准的胸腔護理衛教單張，共 <strong id="count">–</strong> 份。每份單張都保留原單張編號與制修訂日期，內容與原單張一致，可放大字體或列印帶回家。</p>
+    </section>
+    <div class="filters" id="filters" aria-label="依分類篩選"></div>
+    <div class="grid" id="grid"><p>載入中…</p></div>
+    <p class="more">更多單張陸續加入中，新增方式請見 <a href="https://github.com/juliachou0530/NTU_Cool_GenAI_ChestHealth/blob/main/CLAUDE.md">CLAUDE.md</a>。</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">本站內容僅供參考，實際治療以醫師診治為主；如有不適請立即就醫。｜原始碼：<a href="https://github.com/juliachou0530/NTU_Cool_GenAI_ChestHealth">GitHub</a></div>
+  </footer>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,167 @@
+{
+  "title": "肺炎",
+  "id": "pneumonia",
+  "category": "疾病照護",
+  "document_type": "醫院護理衛教單張（原 PDF 轉文字；非醫療建議）",
+  "code": "PFS-8100-451",
+  "unit": "27病房",
+  "revised_date": "2025-12-01（原文 114.12.01）",
+  "contact": "(02)2737-2181 分機 1772",
+  "prepared_date": "2026-11-02",
+  "order": 5,
+  "source_file": "source/05_pneumonia.txt",
+  "summary": "肺炎為病患（包括兒童、免疫不全病宿主）下呼吸道肺部實質等處，受到病原菌（包括細菌、病毒、黴菌、真菌、結核菌等）感染之肺部發炎。",
+  "content": [
+    {
+      "heading": "疾病簡介",
+      "alert": false,
+      "items": [
+        {
+          "type": "paragraph",
+          "text": "肺炎為病患（包括兒童、免疫不全病宿主）下呼吸道肺部實質等處，受到病原菌（包括細菌、病毒、黴菌、真菌、結核菌等）感染之肺部發炎。"
+        }
+      ]
+    },
+    {
+      "heading": "常見症狀",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "咳嗽、有痰"
+        },
+        {
+          "type": "bullet",
+          "text": "發燒（38°C 以上）"
+        },
+        {
+          "type": "bullet",
+          "text": "呼吸急促、覺得喘"
+        },
+        {
+          "type": "bullet",
+          "text": "胸口會悶、痛"
+        }
+      ]
+    },
+    {
+      "heading": "常見檢查",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "胸部Ｘ光檢查"
+        },
+        {
+          "type": "bullet",
+          "text": "血液檢查"
+        },
+        {
+          "type": "bullet",
+          "text": "痰液檢查"
+        }
+      ]
+    },
+    {
+      "heading": "處置",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "藥物治療：依建議住院觀察，通常會視需要給抗生素，以治療控制肺部的感染。"
+        },
+        {
+          "type": "bullet",
+          "text": "氧氣治療：氧氣或噴霧治療的給予，並協助病人稀釋痰液以利排出。"
+        }
+      ]
+    },
+    {
+      "heading": "急性照護",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "應依照指示按時服藥，用藥期間注意有無不適。"
+        },
+        {
+          "type": "bullet",
+          "text": "促進呼吸道通暢：做深呼吸及咳嗽，鼓勵將痰咳出。"
+        },
+        {
+          "type": "bullet",
+          "text": "協助病人採半坐臥式或高位坐姿。"
+        },
+        {
+          "type": "bullet",
+          "text": "保持空氣流通，適當的調節溫度。"
+        },
+        {
+          "type": "bullet",
+          "text": "良好的營養可以幫助增加身體抵抗力，可採用高蛋白、高熱量飲食。"
+        }
+      ]
+    },
+    {
+      "heading": "日常生活照顧",
+      "alert": false,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "做深呼吸及有效的咳嗽運動鼓勵將痰液咳出"
+        },
+        {
+          "type": "bullet",
+          "text": "若無限水，每天至少3000到4000mL以稀釋痰液"
+        },
+        {
+          "type": "bullet",
+          "text": "採高熱量、高蛋白、高維生素的飲食"
+        },
+        {
+          "type": "bullet",
+          "text": "採半坐臥或高位坐姿，幫助呼吸順暢"
+        },
+        {
+          "type": "bullet",
+          "text": "禁菸、酒、刺激性食物"
+        }
+      ]
+    },
+    {
+      "heading": "緊急返院提醒",
+      "alert": true,
+      "items": [
+        {
+          "type": "bullet",
+          "text": "痰液變得濃稠難排或顏色改變"
+        },
+        {
+          "type": "bullet",
+          "text": "呼吸急促、喘不過氣"
+        },
+        {
+          "type": "bullet",
+          "text": "發燒不退"
+        },
+        {
+          "type": "bullet",
+          "text": "意識混亂或嗜睡"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "questions": [
+      "( )發燒、咳嗽加劇、呼吸喘等症狀，請速就醫。",
+      "( )多採高熱量、高蛋白、高維生素的飲食。",
+      "( )進食後最好立刻躺平。"
+    ],
+    "answers": "問題1：〇 問題2：〇 問題3：X"
+  },
+  "references": [
+    "衛生福利部疾病管制署（2023年12月20日）。肺炎及呼吸道疾病個人衛教資料。取自https://epaper.ntuh.gov.tw",
+    "劉雪娥總校閱、馮容芬、李惠玲（2024）。成人內外科護理學（上冊，第9版）。臺北市：華杏出版。"
+  ],
+  "notice": "本單僅供參考，實際治療以醫師診治為主"
+}
